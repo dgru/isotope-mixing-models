@@ -1,4 +1,4 @@
-% Written by SO and DG for Gruen et al., 2018 GCA.
+% Written by DG and SO for Gruen et al., 2018 GCA.
 
 % Simulation and Parameters
 
