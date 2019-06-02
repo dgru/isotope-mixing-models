@@ -1,3 +1,5 @@
+% Written by SO and DG for Gruen et al., 2018 GCA.
+
 % Simulation and Parameters
 
         %13C/12C ratio of CO2
